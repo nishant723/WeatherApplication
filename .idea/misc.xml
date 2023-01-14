@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.184" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_baseline_calendar_month_24.xml" value="0.13" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.13" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_baseline_location_searching_24.xml" value="0.13" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.13" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_broken_image.xml" value="0.13" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_clear_day.xml" value="0.13" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_clear_night.xml" value="0.13" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_cloudy.xml" value="0.184" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_humidity_com.xml" value="0.184" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_partly_cloudy_day.xml" value="0.1" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_partly_cloudy_night.xml" value="0.114" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_thermometer_com.xml" value="0.184" />
+        <entry key="..\:/Users/Nik/AndroidStudioProjects/WeatherApplication/app/src/main/res/drawable/ic_wind.xml" value="0.1055" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
